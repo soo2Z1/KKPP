@@ -1,0 +1,231 @@
+body {
+    background-color: black;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+.left-content {
+    background-color: #1B1A1A;
+    display: block;
+    position: absolute;
+    padding-bottom: 415px;
+    margin-left: 15px;
+    top: 85px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.library {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.no-library {
+    color: #6F6F6F;
+    text-align: center;
+    font-size: 20px;
+}
+
+.logo{
+    display: block;
+    position: fixed;
+    right: 700px;
+    width: 185px;
+    height: 5px;
+}
+
+.spotify_text {
+    color: white;
+    background-color: #1B1A1A;
+    display: block;
+    position: absolute;
+    top: 15px;
+    left: 275px;
+    font-size: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 25px;
+}
+
+.register {
+    display: block;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    border-radius: 25px;
+    background-color: white;
+    color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.singer-container {
+    display: block;
+    position: absolute;
+    background-color: #1B1A1A;
+    top: 85px;
+    left: 275px;
+    height: 250px;
+    width: 610px;
+    border-radius: 50px;
+}
+
+.album-container {
+    display: block;
+    position: absolute;
+    background-color: #1B1A1A;
+    top: 350px;
+    left: 275px;
+    height: 250px;
+    width: 610px;
+    border-radius: 50px;
+}
+
+.singers {
+    display: block;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    left: 25px;
+}
+
+.albums {
+    display: block;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    left: 25px;
+}
+
+.foto-1 {
+    display: block;
+    position: absolute;
+    left: 25px;
+    top: 75px;
+    border-radius: 100px;
+}
+
+.song-1 {
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    color: white;
+}
+
+.foto-2 {
+    display: block;
+    position: absolute;
+    left: 175px;
+    top: 75px; 
+    border-radius: 100px;
+}
+
+.song-2 {
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 180px;
+    color: white;
+}
+
+.foto-3 {
+    display: block;
+    position: absolute;
+    left: 325px;
+    top: 75px; 
+    border-radius: 100px;
+}
+
+.song-3 {
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 325px;
+    color: white;
+}
+
+.foto-4 {
+    display: block;
+    position: absolute;
+    left: 475px;
+    top: 75px; 
+    border-radius: 100px;
+}
+
+.song-4 {
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 485px;
+    color: white;
+}
+
+.albums-1 {
+    display: block;
+    position: absolute;
+    top: 75px;
+    left: 25px;
+    border-radius: 100px;
+}
+
+.album-1 {
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 45px;
+    color: white;
+}
+
+.albums-2 {
+    display: block;
+    position: absolute;
+    top: 75px;
+    left: 175px;
+    border-radius: 100px;
+}
+
+.album-2 {
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 175px;
+    color: white;
+}
+
+.albums-3 {
+    display: block;
+    position: absolute;
+    top: 75px;
+    left: 325px;
+    border-radius: 100px;
+}
+
+.album-3 {
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 340px;
+    color: white;
+}
+
+.albums-4 {
+    display: block;
+    position: absolute;
+    top: 75px;
+    left: 475px;
+    border-radius: 100px;
+}
+
+.album-4 {
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 505px;
+    color: white;
+}
